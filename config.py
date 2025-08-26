@@ -1,6 +1,7 @@
 import os
 from dotenv import load_dotenv
 
+#Push qilolamanmi
 
 load_dotenv()
 
